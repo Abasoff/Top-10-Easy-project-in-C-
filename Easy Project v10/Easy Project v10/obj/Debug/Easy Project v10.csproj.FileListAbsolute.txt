@@ -1,0 +1,11 @@
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\bin\Debug\Easy Project v10.exe.config
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\bin\Debug\Easy Project v10.exe
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\bin\Debug\Easy Project v10.pdb
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy Project v10.csproj.AssemblyReference.cache
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy Project v10.csproj.SuggestedBindingRedirects.cache
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy_Project_v10.Form1.resources
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy_Project_v10.Properties.Resources.resources
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy Project v10.csproj.GenerateResource.cache
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy Project v10.csproj.CoreCompileInputs.cache
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy Project v10.exe
+C:\C# Projects EasyToHard\Easy Project v10\Easy Project v10\obj\Debug\Easy Project v10.pdb

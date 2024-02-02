@@ -1,0 +1,11 @@
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Easy Project v04.csproj.AssemblyReference.cache
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Easy Project v04.csproj.SuggestedBindingRedirects.cache
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Easy Project v04.csproj.GenerateResource.cache
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Easy Project v04.csproj.CoreCompileInputs.cache
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C# Projects EasyToHard\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

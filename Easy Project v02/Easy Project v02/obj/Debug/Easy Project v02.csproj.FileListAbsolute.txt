@@ -1,0 +1,8 @@
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\obj\Debug\Easy Project v02.csproj.AssemblyReference.cache
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\obj\Debug\Easy Project v02.csproj.SuggestedBindingRedirects.cache
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\obj\Debug\Easy Project v02.csproj.CoreCompileInputs.cache
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\bin\Debug\Easy Project v02.exe.config
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\bin\Debug\Easy Project v02.exe
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\bin\Debug\Easy Project v02.pdb
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\obj\Debug\Easy Project v02.exe
+C:\C# 100Day100Proj\Easy Project v02\Easy Project v02\obj\Debug\Easy Project v02.pdb

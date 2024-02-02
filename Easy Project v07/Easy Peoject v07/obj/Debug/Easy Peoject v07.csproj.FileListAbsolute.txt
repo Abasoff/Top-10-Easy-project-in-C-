@@ -1,0 +1,8 @@
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\bin\Debug\Easy Peoject v07.exe.config
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\bin\Debug\Easy Peoject v07.exe
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\bin\Debug\Easy Peoject v07.pdb
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\obj\Debug\Easy Peoject v07.csproj.AssemblyReference.cache
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\obj\Debug\Easy Peoject v07.csproj.SuggestedBindingRedirects.cache
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\obj\Debug\Easy Peoject v07.csproj.CoreCompileInputs.cache
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\obj\Debug\Easy Peoject v07.exe
+C:\C# Projects EasyToHard\Easy Project v07\Easy Peoject v07\obj\Debug\Easy Peoject v07.pdb
